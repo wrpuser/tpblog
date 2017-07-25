@@ -1,0 +1,1597 @@
+[ 2017-07-14T15:27:51+08:00 ] ::1 /mybsblog3/index.php/Admin/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-07-14T15:27:53+08:00 ] ::1 /mybsblog3/index.php/Admin/Article/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-07-14T15:27:55+08:00 ] ::1 /mybsblog3/index.php/Admin/Slider/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `te_photo` [ RunTime:0.0120s ]
+SQL: SELECT * FROM `te_photo`  [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Use of undefined constant data - assumed 'data' D:\phpStudy\WWW\mybsblog3\Application\Runtime\Cache\Admin\45fbe0f31fd80f8a571f40bbba328389.php 第 59 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.016001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.016001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2017-07-14T15:27:56+08:00 ] ::1 /mybsblog3/index.php/Admin/Slider/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `te_photo` [ RunTime:0.0090s ]
+SQL: SELECT * FROM `te_photo`  [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Use of undefined constant data - assumed 'data' D:\phpStudy\WWW\mybsblog3\Application\Runtime\Cache\Admin\45fbe0f31fd80f8a571f40bbba328389.php 第 59 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.018001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.019001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2017-07-14T15:30:09+08:00 ] ::1 /mybsblog3/index.php/Admin/Slider/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001001s ]
+SQL: SHOW COLUMNS FROM `te_photo` [ RunTime:0.0100s ]
+SQL: SELECT * FROM `te_photo`  [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Use of undefined constant data - assumed 'data' D:\phpStudy\WWW\mybsblog3\Application\Runtime\Cache\Admin\45fbe0f31fd80f8a571f40bbba328389.php 第 59 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.019001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.019001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-07-14T15:30:09+08:00 ] ::1 /mybsblog3/index.php/Admin/Slider/'Uploads/'+2017-05-25/5926a13912158.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-07-14T15:30:09+08:00 ] ::1 /mybsblog3/index.php/Admin/Slider/'Uploads/'+2017-05-25/5926a14192dd8.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+
+[ 2017-07-14T15:30:09+08:00 ] ::1 /mybsblog3/index.php/Admin/Slider/'Uploads/'+2017-05-25/5926a1492171f.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-07-14T15:30:28+08:00 ] ::1 /mybsblog3/index.php/Admin/Slider/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `te_photo` [ RunTime:0.0080s ]
+SQL: SELECT * FROM `te_photo`  [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Use of undefined constant data - assumed 'data' D:\phpStudy\WWW\mybsblog3\Application\Runtime\Cache\Admin\45fbe0f31fd80f8a571f40bbba328389.php 第 59 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.019001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.019001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-07-14T15:30:28+08:00 ] ::1 /mybsblog3/index.php/Admin/Slider/Uploads/2017-05-25/5926a13912158.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+
+[ 2017-07-14T15:30:28+08:00 ] ::1 /mybsblog3/index.php/Admin/Slider/Uploads/2017-05-25/5926a14192dd8.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-07-14T15:30:28+08:00 ] ::1 /mybsblog3/index.php/Admin/Slider/Uploads/2017-05-25/5926a1492171f.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+
+[ 2017-07-14T15:31:19+08:00 ] ::1 /mybsblog3/index.php/Admin/Slider/Uploads/2017-05-25/5926a13912158.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+
+[ 2017-07-14T15:31:39+08:00 ] ::1 /mybsblog3/index.php/Admin/Slider/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `te_photo` [ RunTime:0.0110s ]
+SQL: SELECT * FROM `te_photo`  [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Use of undefined constant data - assumed 'data' D:\phpStudy\WWW\mybsblog3\Application\Runtime\Cache\Admin\45fbe0f31fd80f8a571f40bbba328389.php 第 59 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.020002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.020002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2017-07-14T15:32:23+08:00 ] ::1 /mybsblog3/index.php/Admin/Slider/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `te_photo` [ RunTime:0.0100s ]
+SQL: SELECT * FROM `te_photo`  [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Use of undefined constant data - assumed 'data' D:\phpStudy\WWW\mybsblog3\Application\Runtime\Cache\Admin\45fbe0f31fd80f8a571f40bbba328389.php 第 59 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.020001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.020001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-07-14T15:32:23+08:00 ] ::1 /mybsblog3/index.php/Admin/Slider/myblogs/Uploads/2017-05-25/5926a13912158.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-07-14T15:32:23+08:00 ] ::1 /mybsblog3/index.php/Admin/Slider/myblogs/Uploads/2017-05-25/5926a14192dd8.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-07-14T15:32:23+08:00 ] ::1 /mybsblog3/index.php/Admin/Slider/myblogs/Uploads/2017-05-25/5926a1492171f.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-07-14T15:32:32+08:00 ] ::1 /mybsblog3/index.php/Admin/Slider/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `te_photo` [ RunTime:0.0090s ]
+SQL: SELECT * FROM `te_photo`  [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Use of undefined constant data - assumed 'data' D:\phpStudy\WWW\mybsblog3\Application\Runtime\Cache\Admin\45fbe0f31fd80f8a571f40bbba328389.php 第 59 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-07-14T15:32:51+08:00 ] ::1 /mybsblog3/index.php/Admin/Slider/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `te_photo` [ RunTime:0.0110s ]
+SQL: SELECT * FROM `te_photo`  [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Use of undefined constant data - assumed 'data' D:\phpStudy\WWW\mybsblog3\Application\Runtime\Cache\Admin\45fbe0f31fd80f8a571f40bbba328389.php 第 59 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.021001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.021001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2017-07-14T15:33:48+08:00 ] ::1 /mybsblog3/index.php/Admin/Slider/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `te_photo` [ RunTime:0.0110s ]
+SQL: SELECT * FROM `te_photo`  [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Use of undefined constant data - assumed 'data' D:\phpStudy\WWW\mybsblog3\Application\Runtime\Cache\Admin\45fbe0f31fd80f8a571f40bbba328389.php 第 59 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.021001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.021001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002001s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2017-07-14T15:34:05+08:00 ] ::1 /mybsblog3/index.php/Admin/Slider/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `te_photo` [ RunTime:0.0100s ]
+SQL: SELECT * FROM `te_photo`  [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Use of undefined constant data - assumed 'data' D:\phpStudy\WWW\mybsblog3\Application\Runtime\Cache\Admin\45fbe0f31fd80f8a571f40bbba328389.php 第 59 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.017001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.017001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-07-14T15:34:38+08:00 ] ::1 /mybsblog3/index.php/Admin/Slider/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `te_photo` [ RunTime:0.0100s ]
+SQL: SELECT * FROM `te_photo`  [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Use of undefined constant data - assumed 'data' D:\phpStudy\WWW\mybsblog3\Application\Runtime\Cache\Admin\45fbe0f31fd80f8a571f40bbba328389.php 第 59 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.018001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.019001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2017-07-14T15:35:44+08:00 ] ::1 /mybsblog3/index.php/Admin/Comment/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001001s ]
+SQL: SHOW COLUMNS FROM `te_comment` [ RunTime:0.0110s ]
+SQL: SELECT `id`,`content`,`create_time`,`comauthor` FROM `te_comment`  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `te_article` [ RunTime:0.0090s ]
+SQL: SELECT `title` FROM `te_article` LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.016001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.016001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-07-14T15:35:47+08:00 ] ::1 /mybsblog3/index.php/Admin/Contact/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `te_contact` [ RunTime:0.0120s ]
+SQL: SELECT `id`,`content`,`create_time`,`f_id`,`lyauthor` FROM `te_contact`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `te_user` [ RunTime:0.0110s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-07-14T15:35:49+08:00 ] ::1 /mybsblog3/index.php/Admin/Comment/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `te_comment` [ RunTime:0.0100s ]
+SQL: SELECT `id`,`content`,`create_time`,`comauthor` FROM `te_comment`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `te_article` [ RunTime:0.0090s ]
+SQL: SELECT `title` FROM `te_article` LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.017001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.017001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-07-14T15:35:52+08:00 ] ::1 /mybsblog3/index.php/Admin/About/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-07-14T15:35:54+08:00 ] ::1 /mybsblog3/index.php/Admin/Comment/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002001s ]
+SQL: SHOW COLUMNS FROM `te_comment` [ RunTime:0.0080s ]
+SQL: SELECT `id`,`content`,`create_time`,`comauthor` FROM `te_comment`  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `te_article` [ RunTime:0.0070s ]
+SQL: SELECT `title` FROM `te_article` LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-07-14T15:35:55+08:00 ] ::1 /mybsblog3/index.php/Admin/Comment/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `te_comment` [ RunTime:0.0090s ]
+SQL: SELECT `id`,`content`,`create_time`,`comauthor` FROM `te_comment`  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `te_article` [ RunTime:0.0100s ]
+SQL: SELECT `title` FROM `te_article` LIMIT 1   [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.014001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.014001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-07-14T15:36:26+08:00 ] ::1 /mybsblog3/index.php/Admin/Comment/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `te_comment` [ RunTime:0.0120s ]
+SQL: SELECT `id`,`content`,`create_time`,`comauthor` FROM `te_comment`  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `te_article` [ RunTime:0.0110s ]
+SQL: SELECT `title` FROM `te_article` LIMIT 1   [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.014001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-07-14T15:36:43+08:00 ] ::1 /mybsblog3/index.php/Admin/Comment/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001001s ]
+SQL: SHOW COLUMNS FROM `te_comment` [ RunTime:0.0110s ]
+SQL: SELECT `id`,`content`,`create_time`,`comauthor` FROM `te_comment`  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `te_article` [ RunTime:0.0090s ]
+SQL: SELECT `title` FROM `te_article` LIMIT 1   [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.021002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.021002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-07-14T15:36:45+08:00 ] ::1 /mybsblog3/index.php/Admin/Contact/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `te_contact` [ RunTime:0.0110s ]
+SQL: SELECT `id`,`content`,`create_time`,`f_id`,`lyauthor` FROM `te_contact`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `te_user` [ RunTime:0.0110s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.021001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.021001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002001s ]
+
+[ 2017-07-14T15:36:46+08:00 ] ::1 /mybsblog3/index.php/Admin/About/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-07-14T15:36:48+08:00 ] ::1 /mybsblog3/index.php/Admin/Slider/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `te_photo` [ RunTime:0.0100s ]
+SQL: SELECT * FROM `te_photo`  [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Use of undefined constant data - assumed 'data' D:\phpStudy\WWW\mybsblog3\Application\Runtime\Cache\Admin\45fbe0f31fd80f8a571f40bbba328389.php 第 59 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.019001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.019001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-07-14T15:36:49+08:00 ] ::1 /mybsblog3/index.php/Admin/Article/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2017-07-14T15:36:51+08:00 ] ::1 /mybsblog3/index.php/Admin/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2017-07-14T15:49:31+08:00 ] ::1 /mybsblog3/index.php/Admin/Article/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-07-14T15:50:00+08:00 ] ::1 /mybsblog3/index.php/Admin/Article/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-07-14T16:14:58+08:00 ] ::1 /mybsblog3/index.php/Admin/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-07-14T16:15:00+08:00 ] ::1 /mybsblog3/index.php/Admin/Slider/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `te_photo` [ RunTime:0.0110s ]
+SQL: SELECT * FROM `te_photo`  [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Use of undefined constant data - assumed 'data' D:\phpStudy\WWW\mybsblog3\Application\Runtime\Cache\Admin\45fbe0f31fd80f8a571f40bbba328389.php 第 59 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.018001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.018001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-07-14T16:15:02+08:00 ] ::1 /mybsblog3/index.php/Admin/About/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-07-14T16:15:04+08:00 ] ::1 /mybsblog3/index.php/Admin/Comment/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `te_comment` [ RunTime:0.0110s ]
+SQL: SELECT `id`,`content`,`create_time`,`comauthor` FROM `te_comment`  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `te_article` [ RunTime:0.0110s ]
+SQL: SELECT `title` FROM `te_article` LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.045002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.046002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2017-07-14T16:15:05+08:00 ] ::1 /mybsblog3/index.php/Admin/Contact/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `te_contact` [ RunTime:0.0130s ]
+SQL: SELECT `id`,`content`,`create_time`,`f_id`,`lyauthor` FROM `te_contact`  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `te_user` [ RunTime:0.0100s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2017-07-14T16:15:08+08:00 ] ::1 /mybsblog3/index.php/Admin/Comment/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `te_comment` [ RunTime:0.0100s ]
+SQL: SELECT `id`,`content`,`create_time`,`comauthor` FROM `te_comment`  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `te_article` [ RunTime:0.0090s ]
+SQL: SELECT `title` FROM `te_article` LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001001s ]
+
+[ 2017-07-14T16:15:11+08:00 ] ::1 /mybsblog3/index.php/Admin/Contact/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `te_contact` [ RunTime:0.0060s ]
+SQL: SELECT `id`,`content`,`create_time`,`f_id`,`lyauthor` FROM `te_contact`  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `te_user` [ RunTime:0.0050s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-07-14T16:15:13+08:00 ] ::1 /mybsblog3/index.php/Admin/Comment/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `te_comment` [ RunTime:0.0110s ]
+SQL: SELECT `id`,`content`,`create_time`,`comauthor` FROM `te_comment`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `te_article` [ RunTime:0.0100s ]
+SQL: SELECT `title` FROM `te_article` LIMIT 1   [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.018001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.018001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-07-14T16:15:14+08:00 ] ::1 /mybsblog3/index.php/Admin/Comment/modify.html?id=11
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.047003s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.047003s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-07-14T16:15:25+08:00 ] ::1 /mybsblog3/index.php/Admin/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2017-07-14T16:27:53+08:00 ] ::1 /mybsblog3/index.php/Admin/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-07-14T16:27:55+08:00 ] ::1 /mybsblog3/index.php/Admin/Article/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-07-14T16:28:02+08:00 ] ::1 /mybsblog3/index.php/Admin/Slider/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `te_photo` [ RunTime:0.0100s ]
+SQL: SELECT * FROM `te_photo`  [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Use of undefined constant data - assumed 'data' D:\phpStudy\WWW\mybsblog3\Application\Runtime\Cache\Admin\45fbe0f31fd80f8a571f40bbba328389.php 第 59 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.016001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.016001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-07-14T16:28:03+08:00 ] ::1 /mybsblog3/index.php/Admin/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-07-14T16:28:23+08:00 ] ::1 /mybsblog3/index.php/Admin/Article/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-07-14T16:29:31+08:00 ] ::1 /mybsblog3/index.php/Admin/Article/article.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `te_about` [ RunTime:0.0100s ]
+NOTIC: [8] Undefined index: validate D:\phpStudy\WWW\mybsblog3\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: auto D:\phpStudy\WWW\mybsblog3\ThinkPHP\Library\Think\Model.class.php 第 1128 行.
+SQL: INSERT INTO `te_about` (`content`) VALUES ('孙秋霞  国是直通车
+
+　　一场零售业的变革已经拉开帷幕。
+
+　　“未来的十年、二十年，没有电子商务这一说，只有新零售。”马云在2016年10月的阿里云栖大会上的这番话言犹在耳。不到一年时间，新零售已经在中国崭露头角。
+
+　　可以预见的是，更多的改变即将发生。
+
+　　4月10日，京东商城宣布，未来五年，京东将在全国开设超过一百万家京东便利店，其中一半在农村，借此加快线上线下融合。
+
+　　6月25日，传统消费企业的翘楚娃哈哈和阿里巴巴扶持的深兰科技宣布：一起合作搞Take Go无人智能零售店，三年供应10万台，十年计划扩大到百万台。
+
+　　自上海第一家无人超市“缤果盒子”落地后，深圳也实现了自动收银。7月7日，随着阿里巴巴的无人超市正式落户杭州，一场零售业的变革已经拉开帷幕。
+
+　　在“淘咖啡”，只需用手机淘宝扫描二维码，便可进入店内。选完商品之后，购物者通过两扇“支付门”，就自动完成了支付。
+
+　　无人超市“强势来袭”，我们在拥抱新事物的同时，还有些疑问需要解答。
+
+中新社发 钟鑫旺 摄中新社发 钟鑫旺 摄
+　　技术成熟了吗？
+
+　　就在人们讨论无人超市是否是下一个风口时，刚刚完成1亿元A轮融资的上海首家无人超市“缤果盒子”落地不到半个月就暂时停业，并贴出了“由于技术调试，暂时停运”的通知。
+
+　　缤果盒子CEO陈子林回应称：“欧尚长阳店人流量太大，一天完成交易订单200多个，门一直开着等各种原因导致空调负荷超载，盒子温度过高。但事实上，我们目前落地的10个盒子中，另外9个都在正常运行。”
+
+　　在淘咖啡开业的第一天，缤果盒子暂时停运的消息不禁让人担忧，无人超市的技术准备好了吗？
+
+　　据了解，阿里巴巴无人超市采用的是视觉传感器、压力传感器以及物联网支付等技术。其中，关键在于为每件商品添加的RFID标签，这是一种非接触式的自动识别技术，俗称“电子标签”。缤果盒子也是目前市面上采用RFID技术的典型代表。
+
+　　一位不愿具名的业内人士透露：“其实阿里‘淘咖啡’的商品很多都利用造物节的活动标签叠加了RFID的方案。当日在其支付的时候，拿了五六件商品放进包里，有两件同类的商品只识别出了一件，另一件就被‘免费’拿出来了。RFID技术本身有缺陷，标签如果紧紧被捏住会识别不到，从而影响识别的精度。”
+
+　　为多家企业的无人零售店提供技术的北京轻仓科技CE0汤雁表示，目前很多技术上的障碍都有望突破，比如，对于商品识别的准确度方面。
+
+中新社记者 张亨伟 摄中新社记者 张亨伟 摄
+　　运营成本会下降吗？
+
+　　相比于传统零售店，无人超市最大的特点就是“无人”。那么，节省人力成本之后，无人超市的运营成本会降低吗？
+
+　　首先，无论是传统零售店还是无人超市，租金是必不可少的。无人超市虽然没有了人力成本，但却增加了其他费用，比如新技术的使用等。
+
+　　天猫新零售技术事业部负责人赵鹏表示：“‘无人零售店’背后其实是一整套的无人店解决方案，具有整体学习和感知能力的体系，通过多路摄像头和传感器融合，加上计算机视觉、机器学习、人工智能等深度学习算法，组成的一套完整自感知和不断优化的智能系统。”
+
+　　商务部研究院电子商务研究所副所长张莉接受中新社国是直通车记者采访时表示：“技术在普遍性和特殊性之间还是存在差别的，所以无人超市所运用的技术的成本在研发阶段可能比较高，但是当技术普及运用以后，成本就会降下来。”
+
+　　张莉还指出：“无人超市今后的发展，关键不在成本，最大的问题是技术突破之后，人们的理念、道德意识和自律是否能够跟上。”
+
+　　就像共享单车发展之初，存在很多人恶意破坏、偷窃的现象，无人超市也绕不开这些问题。
+
+　　张莉告诉国是直通车记者：“我们并不能因为消费者可能产生破坏或者负面的影响就把这种新事物阻止，因为任何新的模式出来时都会存在少部分人有一些破坏性的行为。事实上，这些破坏性的举动往往会推动技术创新。”
+
+中新社记者 张亨伟 摄中新社记者 张亨伟 摄
+　　传统零售业将被取代？
+
+　　作为在互联网新技术的推动之下产生的一种新商业模式，张莉认为，无人超市的诞生会推动中国整个零售业产生巨大的变化，这种变化体现在结算、服务和管理等方面，全部在自动化的模式下进行。
+
+　　因此，有人担心，这是否意味着传统零售业终将被淘汰？那些零售店的服务人员是否面临着失业？
+
+
+　　张莉告诉国是直通车记者：“中国零售业的发展是一个循序渐进的过程，不可能一下子都向无人超市的方向发展。因为传统零售业有自己的特点，比如购物的引导、服务的体验、现场的应对等等，不能说是取代性的作用，但像小型便利店和快捷购物超市有可能被无人超市替代。”
+
+　　当然，在零售业转型的过程中，还有很多问题需要解决，比如关乎民生的就业问题。张莉认为：“零售业是解决就业问题的一个主要渠道，今后面临着往哪里转型的问题。所以，应该考虑综合因素后推动新零售的发展。”
+
+　　在政策方面，在张莉看来，应该允许其有创新的空间。“政府要给予一定的鼓励和认定，这样会使得新零售不断地创新，推动中国零售业的发展。如果在政策上不能给它一个合法的身份，新零售会遇到阻碍，不能健康地发展。”
+
+　　在企业方面，张莉认为推动新零售的市场主体，“不能盲目地以效益为主导推动，而是以消费者的需求为主导，这样才会比较合理、健康和理性地发展”。
+
+　　张莉表示：“新零售模式已经开始，只不过有的领域被改变得快，有的领域被改变得慢，未来传统的零售一定会被新零售逐渐融合。”') [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.013001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2017-07-14T16:30:10+08:00 ] ::1 /mybsblog3/index.php/Admin/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-07-14T16:30:12+08:00 ] ::1 /mybsblog3/index.php/Admin/Article/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-07-14T16:30:43+08:00 ] ::1 /mybsblog3/index.php/Admin/Article/article.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `te_about` [ RunTime:0.0120s ]
+NOTIC: [8] Undefined index: validate D:\phpStudy\WWW\mybsblog3\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: auto D:\phpStudy\WWW\mybsblog3\ThinkPHP\Library\Think\Model.class.php 第 1128 行.
+SQL: INSERT INTO `te_about` (`content`) VALUES ('孙秋霞  国是直通车
+
+　　一场零售业的变革已经拉开帷幕。
+
+　　“未来的十年、二十年，没有电子商务这一说，只有新零售。”马云在2016年10月的阿里云栖大会上的这番话言犹在耳。不到一年时间，新零售已经在中国崭露头角。
+
+　　可以预见的是，更多的改变即将发生。
+
+　　4月10日，京东商城宣布，未来五年，京东将在全国开设超过一百万家京东便利店，其中一半在农村，借此加快线上线下融合。
+
+　　6月25日，传统消费企业的翘楚娃哈哈和阿里巴巴扶持的深兰科技宣布：一起合作搞Take Go无人智能零售店，三年供应10万台，十年计划扩大到百万台。
+
+　　自上海第一家无人超市“缤果盒子”落地后，深圳也实现了自动收银。7月7日，随着阿里巴巴的无人超市正式落户杭州，一场零售业的变革已经拉开帷幕。
+
+　　在“淘咖啡”，只需用手机淘宝扫描二维码，便可进入店内。选完商品之后，购物者通过两扇“支付门”，就自动完成了支付。
+
+　　无人超市“强势来袭”，我们在拥抱新事物的同时，还有些疑问需要解答。
+
+中新社发 钟鑫旺 摄中新社发 钟鑫旺 摄
+　　技术成熟了吗？
+
+　　就在人们讨论无人超市是否是下一个风口时，刚刚完成1亿元A轮融资的上海首家无人超市“缤果盒子”落地不到半个月就暂时停业，并贴出了“由于技术调试，暂时停运”的通知。
+
+　　缤果盒子CEO陈子林回应称：“欧尚长阳店人流量太大，一天完成交易订单200多个，门一直开着等各种原因导致空调负荷超载，盒子温度过高。但事实上，我们目前落地的10个盒子中，另外9个都在正常运行。”
+
+　　在淘咖啡开业的第一天，缤果盒子暂时停运的消息不禁让人担忧，无人超市的技术准备好了吗？
+
+　　据了解，阿里巴巴无人超市采用的是视觉传感器、压力传感器以及物联网支付等技术。其中，关键在于为每件商品添加的RFID标签，这是一种非接触式的自动识别技术，俗称“电子标签”。缤果盒子也是目前市面上采用RFID技术的典型代表。
+
+　　一位不愿具名的业内人士透露：“其实阿里‘淘咖啡’的商品很多都利用造物节的活动标签叠加了RFID的方案。当日在其支付的时候，拿了五六件商品放进包里，有两件同类的商品只识别出了一件，另一件就被‘免费’拿出来了。RFID技术本身有缺陷，标签如果紧紧被捏住会识别不到，从而影响识别的精度。”
+
+　　为多家企业的无人零售店提供技术的北京轻仓科技CE0汤雁表示，目前很多技术上的障碍都有望突破，比如，对于商品识别的准确度方面。
+
+中新社记者 张亨伟 摄中新社记者 张亨伟 摄
+　　运营成本会下降吗？
+
+　　相比于传统零售店，无人超市最大的特点就是“无人”。那么，节省人力成本之后，无人超市的运营成本会降低吗？
+
+　　首先，无论是传统零售店还是无人超市，租金是必不可少的。无人超市虽然没有了人力成本，但却增加了其他费用，比如新技术的使用等。
+
+　　天猫新零售技术事业部负责人赵鹏表示：“‘无人零售店’背后其实是一整套的无人店解决方案，具有整体学习和感知能力的体系，通过多路摄像头和传感器融合，加上计算机视觉、机器学习、人工智能等深度学习算法，组成的一套完整自感知和不断优化的智能系统。”
+
+　　商务部研究院电子商务研究所副所长张莉接受中新社国是直通车记者采访时表示：“技术在普遍性和特殊性之间还是存在差别的，所以无人超市所运用的技术的成本在研发阶段可能比较高，但是当技术普及运用以后，成本就会降下来。”
+
+　　张莉还指出：“无人超市今后的发展，关键不在成本，最大的问题是技术突破之后，人们的理念、道德意识和自律是否能够跟上。”
+
+　　就像共享单车发展之初，存在很多人恶意破坏、偷窃的现象，无人超市也绕不开这些问题。
+
+　　张莉告诉国是直通车记者：“我们并不能因为消费者可能产生破坏或者负面的影响就把这种新事物阻止，因为任何新的模式出来时都会存在少部分人有一些破坏性的行为。事实上，这些破坏性的举动往往会推动技术创新。”
+
+中新社记者 张亨伟 摄中新社记者 张亨伟 摄
+　　传统零售业将被取代？
+
+　　作为在互联网新技术的推动之下产生的一种新商业模式，张莉认为，无人超市的诞生会推动中国整个零售业产生巨大的变化，这种变化体现在结算、服务和管理等方面，全部在自动化的模式下进行。
+
+　　因此，有人担心，这是否意味着传统零售业终将被淘汰？那些零售店的服务人员是否面临着失业？
+
+
+　　张莉告诉国是直通车记者：“中国零售业的发展是一个循序渐进的过程，不可能一下子都向无人超市的方向发展。因为传统零售业有自己的特点，比如购物的引导、服务的体验、现场的应对等等，不能说是取代性的作用，但像小型便利店和快捷购物超市有可能被无人超市替代。”
+
+　　当然，在零售业转型的过程中，还有很多问题需要解决，比如关乎民生的就业问题。张莉认为：“零售业是解决就业问题的一个主要渠道，今后面临着往哪里转型的问题。所以，应该考虑综合因素后推动新零售的发展。”
+
+　　在政策方面，在张莉看来，应该允许其有创新的空间。“政府要给予一定的鼓励和认定，这样会使得新零售不断地创新，推动中国零售业的发展。如果在政策上不能给它一个合法的身份，新零售会遇到阻碍，不能健康地发展。”
+
+　　在企业方面，张莉认为推动新零售的市场主体，“不能盲目地以效益为主导推动，而是以消费者的需求为主导，这样才会比较合理、健康和理性地发展”。
+
+　　张莉表示：“新零售模式已经开始，只不过有的领域被改变得快，有的领域被改变得慢，未来传统的零售一定会被新零售逐渐融合。”') [ RunTime:0.0020s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.014001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.014001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2017-07-14T16:31:31+08:00 ] ::1 /mybsblog3/index.php/Admin/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-07-14T16:31:33+08:00 ] ::1 /mybsblog3/index.php/Admin/About/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2017-07-14T16:31:48+08:00 ] ::1 /mybsblog3/index.php/Admin/Article/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-07-14T16:32:08+08:00 ] ::1 /mybsblog3/index.php/Admin/Article/article.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+SQL: SHOW COLUMNS FROM `te_about` [ RunTime:0.0110s ]
+NOTIC: [8] Undefined index: validate D:\phpStudy\WWW\mybsblog3\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: auto D:\phpStudy\WWW\mybsblog3\ThinkPHP\Library\Think\Model.class.php 第 1128 行.
+SQL: INSERT INTO `te_about` (`content`) VALUES ('一场零售业的变革已经拉开帷幕。
+
+　　“未来的十年、二十年，没有电子商务这一说，只有新零售。”马云在2016年10月的阿里云栖大会上的这番话言犹在耳。不到一年时间，新零售已经在中国崭露头角。
+
+　　可以预见的是，更多的改变即将发生。
+
+　　4月10日，京东商城宣布，未来五年，京东将在全国开设超过一百万家京东便利店，其中一半在农村，借此加快线上线下融合。
+
+　　6月25日，传统消费企业的翘楚娃哈哈和阿里巴巴扶持的深兰科技宣布：一起合作搞Take Go无人智能零售店，三年供应10万台，十年计划扩大到百万台。
+
+　　自上海第一家无人超市“缤果盒子”落地后，深圳也实现了自动收银。7月7日，随着阿里巴巴的无人超市正式落户杭州，一场零售业的变革已经拉开帷幕。
+
+　　在“淘咖啡”，只需用手机淘宝扫描二维码，便可进入店内。选完商品之后，购物者通过两扇“支付门”，就自动完成了支付。
+
+　　无人超市“强势来袭”，我们在拥抱新事物的同时，还有些疑问需要解答。
+
+中新社发 钟鑫旺 摄中新社发 钟鑫旺 摄
+　　技术成熟了吗？
+
+　　就在人们讨论无人超市是否是下一个风口时，刚刚完成1亿元A轮融资的上海首家无人超市“缤果盒子”落地不到半个月就暂时停业，并贴出了“由于技术调试，暂时停运”的通知。
+
+　　缤果盒子CEO陈子林回应称：“欧尚长阳店人流量太大，一天完成交易订单200多个，门一直开着等各种原因导致空调负荷超载，盒子温度过高。但事实上，我们目前落地的10个盒子中，另外9个都在正常运行。”
+
+　　在淘咖啡开业的第一天，缤果盒子暂时停运的消息不禁让人担忧，无人超市的技术准备好了吗？
+
+　　据了解，阿里巴巴无人超市采用的是视觉传感器、压力传感器以及物联网支付等技术。其中，关键在于为每件商品添加的RFID标签，这是一种非接触式的自动识别技术，俗称“电子标签”。缤果盒子也是目前市面上采用RFID技术的典型代表。
+
+　　一位不愿具名的业内人士透露：“其实阿里‘淘咖啡’的商品很多都利用造物节的活动标签叠加了RFID的方案。当日在其支付的时候，拿了五六件商品放进包里，有两件同类的商品只识别出了一件，另一件就被‘免费’拿出来了。RFID技术本身有缺陷，标签如果紧紧被捏住会识别不到，从而影响识别的精度。”
+
+　　为多家企业的无人零售店提供技术的北京轻仓科技CE0汤雁表示，目前很多技术上的障碍都有望突破，比如，对于商品识别的准确度方面。
+
+中新社记者 张亨伟 摄中新社记者 张亨伟 摄
+　　运营成本会下降吗？
+
+　　相比于传统零售店，无人超市最大的特点就是“无人”。那么，节省人力成本之后，无人超市的运营成本会降低吗？
+
+　　首先，无论是传统零售店还是无人超市，租金是必不可少的。无人超市虽然没有了人力成本，但却增加了其他费用，比如新技术的使用等。
+
+　　天猫新零售技术事业部负责人赵鹏表示：“‘无人零售店’背后其实是一整套的无人店解决方案，具有整体学习和感知能力的体系，通过多路摄像头和传感器融合，加上计算机视觉、机器学习、人工智能等深度学习算法，组成的一套完整自感知和不断优化的智能系统。”
+
+　　商务部研究院电子商务研究所副所长张莉接受中新社国是直通车记者采访时表示：“技术在普遍性和特殊性之间还是存在差别的，所以无人超市所运用的技术的成本在研发阶段可能比较高，但是当技术普及运用以后，成本就会降下来。”
+
+　　张莉还指出：“无人超市今后的发展，关键不在成本，最大的问题是技术突破之后，人们的理念、道德意识和自律是否能够跟上。”
+
+　　就像共享单车发展之初，存在很多人恶意破坏、偷窃的现象，无人超市也绕不开这些问题。
+
+　　张莉告诉国是直通车记者：“我们并不能因为消费者可能产生破坏或者负面的影响就把这种新事物阻止，因为任何新的模式出来时都会存在少部分人有一些破坏性的行为。事实上，这些破坏性的举动往往会推动技术创新。”
+
+中新社记者 张亨伟 摄中新社记者 张亨伟 摄
+　　传统零售业将被取代？
+
+　　作为在互联网新技术的推动之下产生的一种新商业模式，张莉认为，无人超市的诞生会推动中国整个零售业产生巨大的变化，这种变化体现在结算、服务和管理等方面，全部在自动化的模式下进行。
+
+　　因此，有人担心，这是否意味着传统零售业终将被淘汰？那些零售店的服务人员是否面临着失业？
+
+
+　　张莉告诉国是直通车记者：“中国零售业的发展是一个循序渐进的过程，不可能一下子都向无人超市的方向发展。因为传统零售业有自己的特点，比如购物的引导、服务的体验、现场的应对等等，不能说是取代性的作用，但像小型便利店和快捷购物超市有可能被无人超市替代。”
+
+　　当然，在零售业转型的过程中，还有很多问题需要解决，比如关乎民生的就业问题。张莉认为：“零售业是解决就业问题的一个主要渠道，今后面临着往哪里转型的问题。所以，应该考虑综合因素后推动新零售的发展。”
+
+　　在政策方面，在张莉看来，应该允许其有创新的空间。“政府要给予一定的鼓励和认定，这样会使得新零售不断地创新，推动中国零售业的发展。如果在政策上不能给它一个合法的身份，新零售会遇到阻碍，不能健康地发展。”
+
+　　在企业方面，张莉认为推动新零售的市场主体，“不能盲目地以效益为主导推动，而是以消费者的需求为主导，这样才会比较合理、健康和理性地发展”。
+
+　　张莉表示：“新零售模式已经开始，只不过有的领域被改变得快，有的领域被改变得慢，未来传统的零售一定会被新零售逐渐融合。”') [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2017-07-14T16:32:59+08:00 ] ::1 /mybsblog3/index.php/Admin/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-07-14T16:33:01+08:00 ] ::1 /mybsblog3/index.php/Admin/Article/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001001s ]
+
+[ 2017-07-14T16:33:14+08:00 ] ::1 /mybsblog3/index.php/Admin/Article/article.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `te_article` [ RunTime:0.0110s ]
+NOTIC: [8] Undefined index: validate D:\phpStudy\WWW\mybsblog3\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: auto D:\phpStudy\WWW\mybsblog3\ThinkPHP\Library\Think\Model.class.php 第 1128 行.
+SQL: INSERT INTO `te_article` (`f_id`,`create_time`,`title`,`content`) VALUES ('45','2017-07-14 16:33:01','无人超市将取代传统零售？不回答好这些问题就没未来','一场零售业的变革已经拉开帷幕。
+
+　　“未来的十年、二十年，没有电子商务这一说，只有新零售。”马云在2016年10月的阿里云栖大会上的这番话言犹在耳。不到一年时间，新零售已经在中国崭露头角。
+
+　　可以预见的是，更多的改变即将发生。
+
+　　4月10日，京东商城宣布，未来五年，京东将在全国开设超过一百万家京东便利店，其中一半在农村，借此加快线上线下融合。
+
+　　6月25日，传统消费企业的翘楚娃哈哈和阿里巴巴扶持的深兰科技宣布：一起合作搞Take Go无人智能零售店，三年供应10万台，十年计划扩大到百万台。
+
+　　自上海第一家无人超市“缤果盒子”落地后，深圳也实现了自动收银。7月7日，随着阿里巴巴的无人超市正式落户杭州，一场零售业的变革已经拉开帷幕。
+
+　　在“淘咖啡”，只需用手机淘宝扫描二维码，便可进入店内。选完商品之后，购物者通过两扇“支付门”，就自动完成了支付。
+
+　　无人超市“强势来袭”，我们在拥抱新事物的同时，还有些疑问需要解答。
+
+中新社发 钟鑫旺 摄中新社发 钟鑫旺 摄
+　　技术成熟了吗？
+
+　　就在人们讨论无人超市是否是下一个风口时，刚刚完成1亿元A轮融资的上海首家无人超市“缤果盒子”落地不到半个月就暂时停业，并贴出了“由于技术调试，暂时停运”的通知。
+
+　　缤果盒子CEO陈子林回应称：“欧尚长阳店人流量太大，一天完成交易订单200多个，门一直开着等各种原因导致空调负荷超载，盒子温度过高。但事实上，我们目前落地的10个盒子中，另外9个都在正常运行。”
+
+　　在淘咖啡开业的第一天，缤果盒子暂时停运的消息不禁让人担忧，无人超市的技术准备好了吗？
+
+　　据了解，阿里巴巴无人超市采用的是视觉传感器、压力传感器以及物联网支付等技术。其中，关键在于为每件商品添加的RFID标签，这是一种非接触式的自动识别技术，俗称“电子标签”。缤果盒子也是目前市面上采用RFID技术的典型代表。
+
+　　一位不愿具名的业内人士透露：“其实阿里‘淘咖啡’的商品很多都利用造物节的活动标签叠加了RFID的方案。当日在其支付的时候，拿了五六件商品放进包里，有两件同类的商品只识别出了一件，另一件就被‘免费’拿出来了。RFID技术本身有缺陷，标签如果紧紧被捏住会识别不到，从而影响识别的精度。”
+
+　　为多家企业的无人零售店提供技术的北京轻仓科技CE0汤雁表示，目前很多技术上的障碍都有望突破，比如，对于商品识别的准确度方面。
+
+中新社记者 张亨伟 摄中新社记者 张亨伟 摄
+　　运营成本会下降吗？
+
+　　相比于传统零售店，无人超市最大的特点就是“无人”。那么，节省人力成本之后，无人超市的运营成本会降低吗？
+
+　　首先，无论是传统零售店还是无人超市，租金是必不可少的。无人超市虽然没有了人力成本，但却增加了其他费用，比如新技术的使用等。
+
+　　天猫新零售技术事业部负责人赵鹏表示：“‘无人零售店’背后其实是一整套的无人店解决方案，具有整体学习和感知能力的体系，通过多路摄像头和传感器融合，加上计算机视觉、机器学习、人工智能等深度学习算法，组成的一套完整自感知和不断优化的智能系统。”
+
+　　商务部研究院电子商务研究所副所长张莉接受中新社国是直通车记者采访时表示：“技术在普遍性和特殊性之间还是存在差别的，所以无人超市所运用的技术的成本在研发阶段可能比较高，但是当技术普及运用以后，成本就会降下来。”
+
+　　张莉还指出：“无人超市今后的发展，关键不在成本，最大的问题是技术突破之后，人们的理念、道德意识和自律是否能够跟上。”
+
+　　就像共享单车发展之初，存在很多人恶意破坏、偷窃的现象，无人超市也绕不开这些问题。
+
+　　张莉告诉国是直通车记者：“我们并不能因为消费者可能产生破坏或者负面的影响就把这种新事物阻止，因为任何新的模式出来时都会存在少部分人有一些破坏性的行为。事实上，这些破坏性的举动往往会推动技术创新。”
+
+中新社记者 张亨伟 摄中新社记者 张亨伟 摄
+　　传统零售业将被取代？
+
+　　作为在互联网新技术的推动之下产生的一种新商业模式，张莉认为，无人超市的诞生会推动中国整个零售业产生巨大的变化，这种变化体现在结算、服务和管理等方面，全部在自动化的模式下进行。
+
+　　因此，有人担心，这是否意味着传统零售业终将被淘汰？那些零售店的服务人员是否面临着失业？
+
+
+　　张莉告诉国是直通车记者：“中国零售业的发展是一个循序渐进的过程，不可能一下子都向无人超市的方向发展。因为传统零售业有自己的特点，比如购物的引导、服务的体验、现场的应对等等，不能说是取代性的作用，但像小型便利店和快捷购物超市有可能被无人超市替代。”
+
+　　当然，在零售业转型的过程中，还有很多问题需要解决，比如关乎民生的就业问题。张莉认为：“零售业是解决就业问题的一个主要渠道，今后面临着往哪里转型的问题。所以，应该考虑综合因素后推动新零售的发展。”
+
+　　在政策方面，在张莉看来，应该允许其有创新的空间。“政府要给予一定的鼓励和认定，这样会使得新零售不断地创新，推动中国零售业的发展。如果在政策上不能给它一个合法的身份，新零售会遇到阻碍，不能健康地发展。”
+
+　　在企业方面，张莉认为推动新零售的市场主体，“不能盲目地以效益为主导推动，而是以消费者的需求为主导，这样才会比较合理、健康和理性地发展”。
+
+　　张莉表示：“新零售模式已经开始，只不过有的领域被改变得快，有的领域被改变得慢，未来传统的零售一定会被新零售逐渐融合。”') [ RunTime:0.0020s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.014001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.014001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2017-07-14T16:44:24+08:00 ] ::1 /mybsblog3/index.php/Admin/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-07-14T16:44:25+08:00 ] ::1 /mybsblog3/index.php/Admin/Article/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001001s ]
+
+[ 2017-07-14T16:45:01+08:00 ] ::1 /mybsblog3/index.php/Admin/Article/article.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `te_article` [ RunTime:0.0110s ]
+NOTIC: [8] Undefined index: validate D:\phpStudy\WWW\mybsblog3\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: auto D:\phpStudy\WWW\mybsblog3\ThinkPHP\Library\Think\Model.class.php 第 1128 行.
+SQL: INSERT INTO `te_article` (`f_id`,`create_time`,`title`,`content`) VALUES ('45','2017-07-14 16:44:25','工商总局:上半年虚假广告案占比创同期新高','近期，随着“医药广告表演者”事件被媒体曝光，虚假广告再次成为社会关注的焦点。人们不禁要问，这是否只是当前虚假广告的“冰山一角”？形势的确不容乐观！《法制日报》记者从国家工商总局获悉，今年以来，虚假广告案件占比的确为近年同期新高。
+
+　　网络虚假广告案件同比增172%
+　　今天，在国家工商总局召开的例行新闻发布会上，据工商总局办公厅主任、新闻发言人于法昌透露，2017年上半年，全国工商和市场监管部门共查处广告案件1.12万件，其中51.58%为虚假广告，数量达5784件，占比创近年同期新高。
+　　其中，网络是虚假广告案件的主要违法媒介，占比高达47.56%，且增长较快，同比增幅高达172%。
+　　而针对刘洪斌等人的“医药广告表演者”事件，于法昌也在答记者问时明确予以回应称，该事件发生后，工商总局高度重视，明确要求各地加大执法力度，从严从快查处虚假违法广告，对涉嫌构成犯罪的，要及时移送公安机关，及时回应社会关切。
+　　于法昌透露，下一步，工商总局将进一步加强医疗、药品、保健食品等重点广告监管执法，强化对各地案件查处工作的督导指挥，依法严肃查处虚假违法广告，涉嫌犯罪的，坚决移送司法机关。
+　　“同时，会同相关主管部门研究加强对健康养生类栏目及广告的监管措施。近期，工商总局将陆续公布各地查处虚假违法广告的典型案例，回应社会关切。”他说。
+　　网店成主要违法载体同比增327%
+　　据于法昌介绍，今年上半年，全国工商和市场监管部门共查处各类经济违法违章案件20.7万件，比上年下降12%；案值23.9亿元，下降3.0%。
+　　于法昌认为，从案件中可以分析出一些问题。这些问题包括：一是从查处案件的增速来看，网络交易案件、传销案件和广告违法案件增长的比较快，同比增速分别达到了130%、40%、11%。2017年上半年，各类网络商品交易及有关服务行为违法案件6627件，按违法载体划分，网店为主要网络违法载体，案件达4577件，占比69.07%，同比增长327.36%。“在这方面，接下来我们将重点关注和监督。”于法昌说。
+　　二是“无照经营”现象明显减少。由于实施了一系列商事改革便利化措施，办理企业门槛降低了，“无照经营”现象大幅减少，上半年查处“无照经营”案件4.7万件，同比又大幅下降27%。
+　　四大行业仍存许多隐性壁垒
+　　于法昌坦陈，上半年，我国市场环境总体向好，但在市场准入环境、市场竞争环境和市场消费环境这三大环境方面，仍存在一些薄弱环节和不足。
+　　其中，市场准入方面，有企业反映，现在注册登记环节“照”的问题简化了，但“照”后的“证”还很多。而且，电信、教育、医疗、养老等服务行业仍存在许多不合理限制和隐性壁垒。一些自然垄断和行政垄断限制了民营资本的进入。
+　　而在市场竞争方面，一是假冒伪劣问题。上半年，网络媒体反映较多的前5大问题，分别是假冒伪劣、虚假广告、恶意抢注商标、侵犯知识产权、不正当竞争等。
+　　二是互联网服务领域仍是市场竞争问题频发领域。于法昌指出，随着互联网行业竞争加剧，涉及互联网及移动互联网的不正当竞争呈现高发趋势。山寨抄袭、虚假宣传、窃取信息、商业诋毁、网络传销等问题频发，需要加大对互联网的监管。
+　　三是市场消费环境仍面临一些问题。目前，消费升级驱动的品质消费正在渗透到各个消费领域，国内消费市场出现很多新趋势新特点，同时带来一些新的风险和问题。特点为，假冒伪劣依然是影响消费信心的重要因素，网络诈骗和信息泄露问题突出，食品和非现场购物是线上反馈问题最多的领域，农村市场和网购平台是假冒伪劣重点地区。') [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.014001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.014001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-07-14T16:56:01+08:00 ] ::1 /mybsblog3/index.php/Admin/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+

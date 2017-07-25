@@ -1,0 +1,94 @@
+<include file="Public/header" />
+<body>
+	<div class="container">
+		<div class="pull-right">
+			<eq name="username" value="">
+				
+			<else/>
+				欢迎你，<span class="badge">{$username}</span>|
+				<a href="{:U('Home/Index/index')}">返回前台</a>
+			</eq>	
+						
+		</div>
+
+		<div class="page-header">
+			<h1>后台管理系统</h1>
+			<h4>thinkPHP 3.2.3 + Bootstrap</h4>
+		</div>
+		<nav class="navbar navbar-inverse">
+			<ul class="nav navbar-nav">
+				<li><a href="{:U('Admin/Index/index')}">配置信息</a></li>
+				<li><a href="{:U('Admin/Article/index')}">文章资讯</a></li>
+				<li><a href="{:U('Admin/Slider/index')}">轮播图片</a></li>
+				<li><a href="{:U('Admin/About/index')}">关于我们</a></li>
+				<li class="active"><a href="{:U('Admin/Comment/index')}">评论信息</a></li>
+				<li><a href="{:U('Admin/Contact/index')}">留言信息</a></li>
+			</ul>
+			<form class="navbar-form navbar-right" role="search">
+			  <div class="form-group">
+			    <input type="text" class="form-control" placeholder="Search">
+			  </div>
+			  <button type="submit" class="btn btn-default">Submit</button>
+			</form>
+		</nav>
+		<div class="row">
+			<div class="col-lg-9">
+				<notempty name="comment">
+				<foreach name="comment" item="vo">
+				<div class="panel panel-default">
+					
+					<div class="panel-heading clearfix">
+						<!-- <p class="panel-title">{$title}</p> -->
+						<p class="pull-left">评论者：{$vo.comauthor}&nbsp;评论时间：{$vo.create_time}</p>
+						<p class="pull-right" data-toggle="modal" data-target="#layer"><a class=" text-danger " href="javascript:;">删除</a></p>
+						<p class="pull-right"><a href="{:U('Admin/Comment/modify')}?id={$vo.id}">修改</a>&nbsp;</p>
+					</div>
+					<p class="panel-body">{$vo.content}</p>
+					
+				</div>
+				</foreach>
+				<else/>
+					暂无评论...
+				</notempty>
+			</div>
+			<div class="col-lg-3 visible-lg-block">
+				<!-- 4:3 aspect ratio -->
+				<div class="embed-responsive embed-responsive-4by3">
+				  <iframe class="embed-responsive-item" src="..."></iframe>
+				</div>
+			</div>
+			<!-- 模态框 -->
+			<div role="dialog" class="modal fade" id="layer">
+				<div class="modal-dialog">
+					<div class="modal-content">
+						<div class="modal-header">
+							<button type="button" class="close" data-dismiss="modal">
+								<span>&times;</span>
+							</button>
+							<h3>确认删除？</h3>
+						</div>
+						<div class="modal-body text-right">
+							<button data-dismiss="modal" class="btn btn-primary btn-sm">取消</button>
+							<button data-dismiss="modal" class="btn btn-danger btn-sm"  id="del">确认</button>
+						</div>
+					</div>
+				</div>
+			</div>
+			<script type="text/javascript">
+				$('#del').click(function(){
+					location.href='{:U("Admin/Comment/delete")}?id={$vo.id}';
+				});
+			</script>				
+		</div>
+		<div style="height: 50px"></div>
+		<div class="row">
+			<div class="well text-center">哈哈，这是底部信息 &copy;2010-2017</div>
+		</div>
+		
+	</div>
+
+	<script>
+		$('#myCarousel').carousel('cycle');
+	</script>
+</body>
+</html>
